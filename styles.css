@@ -25,6 +25,9 @@
 .btn:hover {
   cursor: pointer;
 }
+
+/*Animation class for rotating a dice*/
+
 .spin {
   animation-name: spin;
   animation-duration: 1s;
